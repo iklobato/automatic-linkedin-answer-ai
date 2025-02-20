@@ -24,13 +24,13 @@ Automatically respond to LinkedIn messages from recruiters using AI. This bot le
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/automatic-linkedin-answer-ai.git
+   git clone https://github.com/iklobato/automatic-linkedin-answer-ai.git
    cd automatic-linkedin-answer-ai
    ```
 
 2. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   uv install 
    ```
 
 3. **Set Up Environment Variables**:
